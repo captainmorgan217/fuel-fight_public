@@ -7,8 +7,8 @@
 - **19–20.30 Uhr:** Kickboxen
 - **20–21 Uhr:** Skyboxen
 
-## Dienstag (Pause / optional Kraft)
-- **Optional morgens:** Ganzkörper Kraft
+## Dienstag (Pause)
+- Ruhetag – Erholung, lockere Bewegung wie Spazierengehen ist okay.
 
 ## Mittwoch (Zirkel, Kickboxen, Boxen)
 - **16–17 Uhr:** Athletic Zirkeltraining
@@ -17,7 +17,6 @@
 - **20–21 Uhr:** Fitness Boxen
 
 ## Donnerstag (Skyboxen)
-- **Morgens:** Ganzkörper Kraft / Kettlebell
 - **18–19 Uhr:** Skyboxen
 
 ## Freitag (Boxen, Kickboxen)
@@ -26,9 +25,9 @@
 - **19.30–21 Uhr:** Kickboxen
 - **20.15–21 Uhr:** Fitness Boxen – Disco Edition (nur 1. Freitag im Monat)
 
-## Samstag (Boxen)
-- **Morgens:** Regeneratives Laufen
+## Samstag (Kraft optional, Boxen)
+- **Optional morgens:** Krafttraining
 - **13–15 Uhr:** Boxen
 
-## Sonntag (Pause)
-- Ruhetag – Erholung, lockere Bewegung wie Spazierengehen ist okay.
+## Sonntag (Pause / optional Kraft)
+- **Optional morgens:** Krafttraining
