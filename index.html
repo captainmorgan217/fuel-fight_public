@@ -683,7 +683,12 @@
       if (h) {
         closeList();
         var level = h[1].length;
-        html.push("<h" + level + ">" + inline(h[2]) + "</h" + level + ">");
+        var titel = h[2];
+        // Tagesüberschriften nur mit dem Wochentag anzeigen. Der Zusatz in Klammern
+        // ("Ruhetag", Trainingszeit) bleibt im Markdown – naehrwertePlan liest ihn weiter aus.
+        var wtag = titel.split("(")[0].trim();
+        if (level === 2 && WOCHENTAGE.indexOf(wtag) >= 0) titel = wtag;
+        html.push("<h" + level + ">" + inline(titel) + "</h" + level + ">");
         i++;
         continue;
       }
