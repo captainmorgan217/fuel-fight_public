@@ -7,8 +7,8 @@
 - **19–20.30 Uhr:** Kickboxen
 - **20–21 Uhr:** Skyboxen
 
-## Dienstag (Pause)
-- Ruhetag – Erholung, lockere Bewegung wie Spazierengehen ist okay.
+## Dienstag (Pause / optional Kraft)
+- **Optional abends:** Krafttraining
 
 ## Mittwoch (Zirkel, Kickboxen, Boxen)
 - **16–17 Uhr:** Athletic Zirkeltraining
