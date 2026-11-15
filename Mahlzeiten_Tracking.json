@@ -29,17 +29,17 @@
         "Sonntag": 5
       },
       "tage": {
-        "Montag": 0,
+        "Montag": 2,
         "Dienstag": 0,
         "Mittwoch": 0,
         "Donnerstag": 0,
         "Freitag": 0,
-        "Samstag": 2,
+        "Samstag": 0,
         "Sonntag": 0
       },
       "slots": [
-        "Samstag|Frühstück",
-        "Samstag|Mittag"
+        "Montag|Frühstück",
+        "Montag|Mittag"
       ]
     },
     "2026-KW45": {
