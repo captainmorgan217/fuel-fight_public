@@ -1050,7 +1050,8 @@
       var einheiten = det.querySelectorAll("li[data-einheit]").length;
       if (contentEl.dataset.modus === "training") {
         var fertig = det.querySelectorAll("li[data-einheit].checked").length > 0;
-        stand.textContent = !einheiten ? "Pause" : fertig ? "✓ erledigt" : "offen";
+        var pause = det.querySelector('li[data-einheit*="|Pause|"].checked');
+        stand.textContent = !einheiten ? "Pause" : pause ? "✓ Pause" : fertig ? "✓ erledigt" : "offen";
         stand.classList.toggle("voll", fertig);
         return;
       }
@@ -1097,7 +1098,9 @@
         var stark = li.querySelector("span > strong");
         if (!li.classList.contains("checkitem") || !stark) return;
         li.dataset.tag = tag;
-        li.dataset.einheit = tag + "|" + stark.textContent.replace(/:$/, "").trim();
+        // Schlüssel mit Kursname: zwei Kurse zur selben Uhrzeit (Mi 20–21 Uhr) sind getrennt abhakbar.
+        var art = ((stark.nextSibling && stark.nextSibling.textContent) || "").trim();
+        li.dataset.einheit = tag + "|" + stark.textContent.replace(/:$/, "").trim() + "|" + art;
       });
     });
     Array.prototype.forEach.call(
@@ -1161,10 +1164,10 @@
         if (tag) stand.tage[tag] = { einheiten: 0, erledigt: false };
         return;
       }
-      var m = /^-\s+\*\*([^:*]+):\*\*/.exec(l);
+      var m = /^-\s+\*\*([^:*]+):\*\*(.*)$/.exec(l);
       if (!m || !tag) return;
       stand.tage[tag].einheiten++;
-      if (state[tag + "|" + m[1].trim()]) stand.tage[tag].erledigt = true;
+      if (state[tag + "|" + m[1].trim() + "|" + m[2].trim()]) stand.tage[tag].erledigt = true;
     });
     WOCHENTAGE.forEach(function (t) {
       var d = stand.tage[t];
