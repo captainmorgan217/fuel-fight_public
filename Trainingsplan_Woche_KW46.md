@@ -31,10 +31,10 @@
 - **Pause:** Erholung, lockere Bewegung wie Spazierengehen ist okay
 
 ## Samstag
-- **Optional morgens:** Krafttraining
+- **Morgens:** Krafttraining
 - **13–15 Uhr:** Boxen
 - **Pause:** Erholung, lockere Bewegung wie Spazierengehen ist okay
 
 ## Sonntag
-- **Optional morgens:** Krafttraining
+- **Morgens:** Krafttraining
 - **Pause:** Erholung, lockere Bewegung wie Spazierengehen ist okay
