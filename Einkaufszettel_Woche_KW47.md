@@ -52,7 +52,6 @@ Zusammengefasst aus dem aktuellen Essensplan (`Essensplan_Woche_KW47.md`).
 - Marmelade
 - Hüttenkäse
 - Eier
-- Sardellen
 - Bohnen
 
 ---
