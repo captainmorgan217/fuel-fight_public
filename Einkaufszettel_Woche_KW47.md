@@ -51,7 +51,6 @@ Zusammengefasst aus dem aktuellen Essensplan (`Essensplan_Woche_KW47.md`).
 - Butter
 - Marmelade
 - Hüttenkäse
-- Eier
 - Bohnen
 
 ---
