@@ -48,7 +48,6 @@ Zusammengefasst aus dem aktuellen Essensplan (`Essensplan_Woche_KW47.md`).
 ## Manuell hinzugefügt
 - Limetten
 - Butter
-- Marmelade
 - Hüttenkäse
 - Bohnen
 - Spülmaschinen Taps
