@@ -46,7 +46,6 @@ Zusammengefasst aus dem aktuellen Essensplan (`Essensplan_Woche_KW47.md`).
 - Trockenobst (für Energyballs & Gym-Frühstück)
 
 ## Manuell hinzugefügt
-- Orangensaft
 - Limetten
 - Butter
 - Marmelade
