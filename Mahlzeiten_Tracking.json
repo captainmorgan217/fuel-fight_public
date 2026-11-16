@@ -16,6 +16,19 @@
     }
   },
   "wochen": {
+    "2026-KW47": {
+      "gegessen": 0,
+      "gesamt": 41,
+      "tage": {
+        "Montag": 0,
+        "Dienstag": 0,
+        "Mittwoch": 0,
+        "Donnerstag": 0,
+        "Freitag": 0,
+        "Samstag": 0,
+        "Sonntag": 0
+      }
+    },
     "2026-KW46": {
       "gegessen": 4,
       "gesamt": 40,
