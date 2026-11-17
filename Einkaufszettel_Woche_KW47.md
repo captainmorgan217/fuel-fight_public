@@ -51,6 +51,7 @@ Zusammengefasst aus dem aktuellen Essensplan (`Essensplan_Woche_KW47.md`).
 - Bohnen
 - Spülmaschinen Taps
 - DM Blauspüler
+- DM Klo Taps
 
 ---
 *Bereits vorhandene Lebensmittel (siehe Vorhandene_Lebensmittel.md) wurden abgezogen.*
