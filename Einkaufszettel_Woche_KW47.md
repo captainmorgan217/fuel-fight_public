@@ -50,6 +50,7 @@ Zusammengefasst aus dem aktuellen Essensplan (`Essensplan_Woche_KW47.md`).
 - Hüttenkäse
 - Bohnen
 - Spülmaschinen Taps
+- DM Blauspüler
 
 ---
 *Bereits vorhandene Lebensmittel (siehe Vorhandene_Lebensmittel.md) wurden abgezogen.*
